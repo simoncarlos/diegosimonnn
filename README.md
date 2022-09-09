@@ -5,8 +5,8 @@
 
 ```javascript
 const aboutMe = {
-  code: [Javascript, Java, C++, CSS, HTML],
-  tools: [React, Google App Scripts, Git, SQL, Tailwind, SASS, Figma],
+  code: [ "Javascript", "Java", "C++", "CSS", "HTML"],
+  tools: [ "React", "Google App Scripts", "Git", "SQL", "Tailwind", "SASS", "Figma"],
   softSkills: ["teamwork", "persistent", "retailer"],
   techCommunities: {
                         designer: "Freelance",
